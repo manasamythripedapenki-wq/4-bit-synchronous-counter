@@ -26,7 +26,7 @@ A 4-bit Synchronous Counter designed using Verilog HDL. The project includes des
 
 ## Simulation Result
 
-![Waveform](4-bit syn count_waveform.png)
+![Waveform](4-bit%20syn%20count_waveform.png)
 
 ## Author
 
